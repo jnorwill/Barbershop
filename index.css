@@ -1,0 +1,223 @@
+body {
+    color: #000000;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 10px;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: condensed;
+}
+
+header {
+    background-color: black;
+}
+
+nav a {
+    padding: 0 10px;
+    color: #ffffff;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 700px;
+    line-height: 50px;
+    margin: 0 auto;
+}
+
+.come {
+    padding-left: 270px;
+}
+
+main {
+    background: grey url(./1521054079.jpg) no-repeat;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+
+h1 {
+    color: #ffffff;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px 0 0;
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.tagline {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+.tag {
+    width: 200px;
+    text-align: center;
+    padding: 0 10px;
+}
+
+h2 {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    justify-content: center;
+    margin: 30px auto 0;
+    padding: 0;
+    
+}
+
+.border {
+    border-right: 1px solid black;
+}
+
+.one, .two {
+    padding: 40px 50px;
+    margin: 0;
+    width: 350px;
+}
+
+.one p {
+    margin-bottom: 0;
+    margin-top: 25px;
+}
+
+.data {
+    color: grey;
+    font-size: 9px;
+}
+
+.one a {
+    width: 110px;
+    color: #ffffff;
+    background-color: black;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 25px;
+    text-decoration: none;
+    display: block;
+}
+img{
+    width: 230px;
+    height: 150px;
+    margin: 25px 0;
+    text-align: center;
+}
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px 0;
+    line-height: 20px;
+}
+.buttonbutton{
+    margin-right: 10px;
+}
+
+.button a {
+    display: block;
+    text-decoration: none;
+    width: 110px;
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    margin-right: 10px;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 25px;
+}
+
+.two p {
+    margin-top: 25px;
+}
+
+.send {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px 0;
+    line-height: 20px;
+}
+
+.datatime, .nametel{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+input {
+    width: 120px;
+    box-sizing: border-box;
+    display: block;
+    line-height: 30px;
+    border:1.5px solid black;
+}
+
+footer{
+    margin-top: 0px;
+    background-color: rgb(97, 75, 43);
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+.last{
+    width: 233px;
+    margin: 40px 0;
+}
+.last p{
+    margin: 0px;
+}
+.place{
+    color:white;
+}
+
+.lastcenter{
+    text-align: center;
+
+}
+ .center{  
+    display: flex;
+    justify-content: center;
+}
+
+.lastcenter a{
+    width: 35px;
+    height: 35px;
+    background-color: black;
+    margin: 10px 2px;
+}
+.lastlast{
+    text-align: right;
+}
+.lastlast p{
+    margin: 0 20px 15px 0;
+}
+
+.lastlast a{
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+
+
+}
+
+
